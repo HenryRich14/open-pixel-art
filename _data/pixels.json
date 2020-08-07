@@ -1,6 +1,13 @@
 {
   "data": [
-    { "y": 1, "x": 2, "color": "#FFFF00", "username": "cedric" },
+    {"y": 0, "x": 0, "color": "#ffce00", "username": "masterkn48"},
+    {"y": 0, "x": 1, "color": "#ffce00", "username": "huntlax"},
+    {"y": 0, "x": 2, "color": "#D7F3F6", "username": "dionysuscho"},
+    {"y": 0, "x": 3, "color": "#FF69B4", "username": "mesagoh"},
+    {"y": 0, "x": 4, "color": "#0374bb", "username": "arshahmad"},
+    {"y": 0, "x": 5, "color": "#0374ff", "username": "alzyl"},
+    {"y": 0, "x": 6, "color": "#64e8e6", "username": "arupam"},
+    {"y": 0, "x": 7, "color": "#4f4db8", "username": "aedes69"},
     {"y": 0, "x": 8, "color": "#fae4de", "username": "erinfox"},
     {"y": 0, "x": 9, "color": "#ff33C7", "username": "theREALaltoid"},
     {"y": 0, "x": 10, "color": "#101010", "username": "mamue7"},
@@ -1371,6 +1378,7 @@
     {"y": 54, "x": 13, "color": "#FFFF00", "username": "madfalda"},
     {"y": 54, "x": 54, "color": "#234212", "username": "dephraiim"},
     {"y": 55, "x": 1, "color": "#F22F46", "username": "karmanyaahm"},
+    {"y": 55, "x": 2, "color": "#FFFF00", "username": "HenryRich14"},
     {"y": 55, "x": 15, "color": "#9319B9", "username": "AxmartTwilio"},
     {"y": 55, "x": 16, "color": "#7369D9", "username": "healthbjk"},
     {"y": 55, "x": 20, "color": "#ff0066", "username": "phil-harmston"},
